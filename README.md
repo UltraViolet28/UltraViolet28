@@ -1,7 +1,7 @@
 
 Hello there :wave:
 
-I’m a Pre-Final Year Undergraduate Student in the field of Electronics and Communication Engineering at Visvesvaraya National Institue of Technology, Nagpur, India. I'm quite passionate about Robotics and the Maths behind it. I believe that every problem in this world can be solved with the advancement of technology.
+I’m a Final Year Undergraduate Student in the field of Electronics and Communication Engineering at Visvesvaraya National Institue of Technology, Nagpur, India. I'm quite passionate about Robotics and the Maths behind it. I believe that every problem in this world can be solved with the advancement of technology.
 
 More about me:
 
